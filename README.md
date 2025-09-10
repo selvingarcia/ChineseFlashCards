@@ -34,3 +34,7 @@ python main.py
 - Green Button (Right): Click when you know the word → moves to next card
 - Red Button (Wrong): Click when you forgot the word → saves for review and moves to next
 - Save Button (Diskette): Export your forgotten words to study_words.csv
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
