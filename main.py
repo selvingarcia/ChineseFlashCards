@@ -1,4 +1,4 @@
-
+"""Imports """
 import tkinter as tk
 from PIL import Image, ImageTk
 import pandas as pd
