@@ -4,7 +4,6 @@ from PIL import Image, ImageTk
 import pandas as pd
 from tkinter import PhotoImage
 import pyperclip
-import time
 
 BACKGROUND_COLOR = "#B1DDC6"
 
