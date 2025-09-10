@@ -1,9 +1,10 @@
-"""Imports """
+"""All imports"""
 import tkinter as tk
 from PIL import Image, ImageTk
 import pandas as pd
 from tkinter import PhotoImage
 import pyperclip
+
 
 BACKGROUND_COLOR = "#B1DDC6"
 
